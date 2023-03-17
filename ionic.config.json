@@ -1,0 +1,7 @@
+{
+  "name": "ProjectSideMenuMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
